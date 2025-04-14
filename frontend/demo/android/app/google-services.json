@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300748790850",
+    "project_id": "fluxis-deploy",
+    "storage_bucket": "fluxis-deploy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300748790850:android:b9d6cc89af876c2c3621db",
+        "android_client_info": {
+          "package_name": "com.Fluxis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOoHJLrBQ8rnvLplZRTWnRCpWd17b4uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

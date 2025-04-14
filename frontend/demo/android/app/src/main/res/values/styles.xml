@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="LaunchTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- 배경색을 설정해서 기본 아이콘 화면을 없앰 -->
+    <item name="android:windowBackground">@drawable/splash</item>
+    <!-- 상태바를 투명하게 설정 -->
+    <item name="android:statusBarColor">@android:color/transparent</item>
+    <!-- 아이콘 화면을 나타내지 않도록 설정 -->
+    <item name="android:icon">@null</item>
+    <item name="android:windowIsTranslucent">true</item>
+</style>
+
+
+</resources>
